@@ -22,7 +22,7 @@ API_HASH = os.environ.get("API_HASH", "e4d2449b42af4253a0c8fea21eb12f6b")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "")
+OWNER = os.environ.get("OWNER", "zxpheonix")
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "6788574464"))
